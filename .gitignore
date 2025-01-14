@@ -2,6 +2,9 @@
 *.lock.hcl
 *.zip
 *.http
+.tfvars
+.tfstate
+.tfstate.backup
 
 
 
