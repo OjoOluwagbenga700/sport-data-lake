@@ -14,7 +14,9 @@ The architecture leverages the following components:
 
 • **AWS Glue**: Automatically discovers and catalogs the data stored in S3 into a schema using the Glue Database Catalog and Glue crawler for efficient querying.
 
-• **Amazon Athena**: Enables serverless querying of the data lake using standard SQL, allowing users to retrieve insights from the curated NBA data and store result in an Amazon S3 bucke,
+• **Amazon Athena**: Enables serverless querying of the data lake using standard SQL, allowing users to retrieve insights from the curated NBA data and store result in an Amazon S3 bucket,
+
+<img width="352" alt="image" src="https://github.com/user-attachments/assets/8d64ec3f-cdf9-4e59-90c8-b0cd435b742f" />
 
 
 **Prerequisites**:
