@@ -1,0 +1,7 @@
+region                = "us-east-1"
+bucket_name           = "gb-sports-analytics-data-lake"
+glue_database_name    = "nba_data_lake"
+glue_crawler_name     = "nba-crawler"
+athena_workgroup_name = "athena-nba-workgroup"
+nba_api_key           = "API_KEY"
+function_name         = "nba-data-function"
